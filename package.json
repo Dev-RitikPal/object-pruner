@@ -1,0 +1,30 @@
+{
+    "name": "object-pruner",
+    "version": "1.0.0",
+    "description": "A TypeScript utility for deeply pruning objects.",
+    "main": "dist/index.js",
+    "types": "dist/index.d.ts",
+    "scripts": {
+        "build": "tsc"
+    },
+    "bin": {
+        "object-pruner": "./dist/cli.js"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/Dev-RitikPal/object-pruner"
+    },
+    "author": "Ritik Pal",
+    "license": "MIT",
+    "keywords": [
+        "typescript",
+        "prune",
+        "object",
+        "utility",
+        "node"
+    ],
+    "devDependencies": {
+        "@types/node": "^24.1.0",
+        "typescript": "^5.8.3"
+    }
+}
