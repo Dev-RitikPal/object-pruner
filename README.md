@@ -1,2 +1,0 @@
-# object-pruner
-object-pruner
