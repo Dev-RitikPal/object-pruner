@@ -96,8 +96,6 @@ src/
     Pruner.ts
     types.ts
     utils.ts
-tests/
-  pruner.test.ts
 ```
 
 ---
